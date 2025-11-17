@@ -1,5 +1,6 @@
-dash==2.17.0
-pandas
+dash
 plotly
-dash-bootstrap-components
+pandas
 gunicorn
+dash-bootstrap-components
+
